@@ -1,0 +1,15 @@
+[submodule "data/serval"]
+	path = data/serval
+	url = git@github.com:uw-unsat/serval-sosp19.git
+[submodule "data/Cosette"]
+	path = data/Cosette
+	url = git@github.com:uwdb/Cosette.git
+[submodule "data/ferrite"]
+	path = data/ferrite
+	url = git@github.com:uwplse/ferrite.git
+[submodule "data/cozy"]
+	path = data/cozy
+	url = https://github.com/CozySynthesizer/cozy
+[submodule "data/memsynth"]
+	path = data/memsynth
+	url = git@github.com:uwplse/memsynth.git
