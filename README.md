@@ -1,6 +1,7 @@
 # Solver-aided Language SMT2 Benchmark
 
-You are recommended to use the open source git repo [here](https://github.com/izgzhen/fantastic-octo-disco)
+You are recommended to use the open source git repo
+[here](https://github.com/izgzhen/solver-aided-lang-smt2-benchmark)
 to run the following steps
 if you get this as a snapshot tarball.
 
