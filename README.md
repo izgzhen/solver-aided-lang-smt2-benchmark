@@ -4,6 +4,15 @@ You are recommended to use the open source git repo [here](https://github.com/iz
 to run the following steps
 if you get this as a snapshot tarball.
 
+## Set up python3
+
+You are recommended to use virtualenv:
+
+```
+virtualenv -p python3 .venv
+source .venv/bin/activate
+```
+
 ## Download the data and run the experiments
 
 - `git submodule update --init`
