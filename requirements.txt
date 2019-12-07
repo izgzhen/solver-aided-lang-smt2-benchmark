@@ -1,0 +1,8 @@
+pandas
+xgboost
+sklearn
+gensim
+jupyterlab
+matplotlib
+msbase
+tqdm
